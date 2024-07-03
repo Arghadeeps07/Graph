@@ -1,5 +1,5 @@
 # This is a git repo on graphs
-## Above are some popular problems on graphs
+## Below are some popular representation of graphs
 ### Adjacency Matrix representation :
 ```cpp
 #include<iostream>
